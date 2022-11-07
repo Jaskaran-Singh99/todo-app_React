@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##About project
+## About project
 This is a todo application made with react ,this is my first react project so its quite a basic project I used hooks props and other
 basics of react
 
